@@ -1,6 +1,9 @@
-Part 1 — Exploratory Data Analysis & Visual Storytelling
+CApstone project
 
-Data set is loadedin dataframe in that missing columns is there or not found. the labels are created for unbalanced dataset
-Label 0 - Normal Transaction Label 1 - Fraud Transaction
-separated the transactions and calculated statistical analysis
-visual storyteling also done
+title: Credit Card Fraud Detection using Machine Learning
+
+ Part 1 - Data Prep & EDA
+ Part 2 - Supervised ML
+ Part 3 - LLM & Structured Output
+ Part 4 - LLM System & Guardrails
+
